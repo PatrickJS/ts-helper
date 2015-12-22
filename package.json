@@ -1,0 +1,19 @@
+{
+  "name": "ts-helper",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdi2290/ts-helper.git"
+  },
+  "author": "Patrick Stapleton <patrick@angularclass.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gdi2290/ts-helper/issues"
+  },
+  "homepage": "https://github.com/gdi2290/ts-helper#readme"
+}
